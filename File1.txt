@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 line1 :This is File1 
 
 line2 :changes by Master
@@ -5,3 +6,6 @@ line2 :changes by Master
 line3: change made by tester
 
 line4:change by tester2
+
+line5:change by tester1
+
